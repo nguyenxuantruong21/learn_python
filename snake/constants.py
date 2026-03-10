@@ -1,0 +1,13 @@
+# Kích thước
+WIDTH, HEIGHT = 600, 600
+GRID_SIZE = 30
+GRID_COUNT = WIDTH // GRID_SIZE
+FPS = 10
+
+# Màu sắc
+GREEN = (0, 200, 0)
+BLACK = (0, 0, 0)
+WHITE = (255, 255, 255)
+RED = (255, 0, 0)
+DARK_GREY = (40, 40, 40)
+
